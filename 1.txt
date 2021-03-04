@@ -2,3 +2,4 @@ start file
 final version
 like it
 end file
+another string
